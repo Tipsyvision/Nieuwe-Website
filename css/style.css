@@ -401,4 +401,15 @@ img {
 
               }
               
+
+
+              .grid-onderzoek{
+                display: grid;
+                grid-template-columns:  auto;
+                grid-template-rows:   10vh  ;
+                justify-content: center;
+              
+              }
+
+              
               
